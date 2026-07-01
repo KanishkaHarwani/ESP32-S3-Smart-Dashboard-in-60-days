@@ -1,4 +1,4 @@
-# ESP32-S3 Smart Dashboard
+# ESP32-S3 Smart Dashboard in 60 Days
 
 > A beginner-to-professional embedded systems project that builds a production-style IoT dashboard while teaching modern firmware development, FreeRTOS, networking, software architecture, and embedded C++.
 
